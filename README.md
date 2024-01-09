@@ -1,2 +1,2 @@
-# Rover AI
-Open source robotics artificial intelligence tool
+# Earth AI
+Open source earth sciences artificial intelligence tool
