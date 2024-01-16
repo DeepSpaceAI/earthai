@@ -28,7 +28,6 @@ setup(
     ],
     keywords=[
         'earth science',
-        'reinforcement learning'
         'artificial intellgience',
         'machine learning',
         'computer vision',
